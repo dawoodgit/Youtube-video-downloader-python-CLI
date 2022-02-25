@@ -1,4 +1,4 @@
-This python code when executed, can download a YouTube video of a given valid url.
+Just paste the video url & download any Youtube video with this python CLI app.
 Just follow these simple steps:
   1-Make sure you have python3 installed on your system.
   2-Download this 'yt_downloader.py' file & move it in a folder of your choice in your system.
