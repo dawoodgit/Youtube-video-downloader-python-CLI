@@ -1,10 +1,11 @@
 Just paste the video url & download any Youtube video with this python CLI app.
 Follow these simple steps:
   1-Make sure you have python3 installed on your system.
-  2-Download this 'yt_downloader.py' file & move it in a folder of your choice in your system.
-  3-Open terminal/powershell from the same folder. 
-  4-Install 'pytube' via 'pip install pytube' command.
-  5-Run 'python yt_downloader.py' command or in some cases 'py yt_downloader.py'.
+  2-Download the 'zip code' & extract it in a folder of your choice in your system - in your Linux system. 
+  3-Open the extracted folder.
+  4-Open the terminal from there.
+  5-Install 'pytube' via 'pip install pytube' command.
+  6-Run 'python yt_downloader.py' command or in some cases 'py yt_downloader.py'.
     Make sure you have a good internet connection.
   
 When you run this code, it will ask you to paste a url of a video.
