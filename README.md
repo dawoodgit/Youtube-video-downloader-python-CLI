@@ -1,5 +1,8 @@
 Just paste the video url & download any Youtube video with this python CLI app.
-Follow these simple steps:
+
+Watch this video on how to use the app: https://www.youtube.com/shorts/8v8RSmW1BZk
+
+Or Follow these simple steps:
   1-Make sure you have python3 installed on your system.
   2-Download the 'zip code' & extract it in a folder of your choice in your system - in your Linux system. 
   3-Open the extracted folder.
